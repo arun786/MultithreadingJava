@@ -34,6 +34,7 @@ public class CountDownLatchExample {
 			e.printStackTrace();
 		}
 		
+		System.out.println("Completed.. with new name");
 		System.out.println("Completed..this is two name..");
 	}
 
